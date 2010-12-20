@@ -1,0 +1,5 @@
+Simple cancelling add-on
+Run this in a macro to use :
+/script AuctionCancel();
+
+
