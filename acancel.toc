@@ -1,0 +1,7 @@
+## Title: acancel
+## Notes: Automatic cancellation of auctions.
+## Author: Persheal
+## Interface: 30300
+## Version: 1.1
+
+acancel.lua
